@@ -1,8 +1,8 @@
-# 🔢 Python Calculator
+# 🔢 Python Calculator – hello.py
 
-This is a simple command-line calculator built using Python. It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
+This is a simple command-line calculator built using Python. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-> ✅ Created as part of my CS50 learning journey.
+> ✅ Created by Ammaar701 as part of my CS50 learning journey.
 
 ---
 
@@ -11,8 +11,8 @@ This is a simple command-line calculator built using Python. It supports basic a
 - Addition (`+`)
 - Subtraction (`-`)
 - Multiplication (`*`)
-- Division (`/`) with error handling (e.g. divide by zero)
-- Clean and easy-to-understand Python code
+- Division (`/`) with error handling (e.g., divide by zero)
+- Simple, beginner-friendly Python code
 - Works in any Python 3 environment
 
 ---
@@ -21,24 +21,19 @@ This is a simple command-line calculator built using Python. It supports basic a
 
 The program:
 1. Asks the user to input two numbers.
-2. Prompts the user to choose an operation.
+2. Prompts the user to choose an operator.
 3. Performs the calculation.
-4. Displays the result.
+4. Prints the result.
 
 ---
 
 ## 💻 How to Run
 
-> Make sure Python 3 is installed on your machine.
+> Make sure you have Python 3 installed on your computer.
 
-### 🔽 Step-by-step:
+### ▶️ Run it using:
 
 ```bash
-# Clone the repository (or download the file)
-git clone https://github.com/Ammaar701/python-calculator.git
-
-# Navigate into the folder
-cd python-calculator
-
+python hello.py
 # Run the calculator
-python calculator.py
+python hello.py
